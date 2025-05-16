@@ -1,5 +1,10 @@
 15/05/2025
-• Ajuste na cena NO_UPDATES v(1.0)
-• Identificação do nome de grupos na variável group_name
-• Remoção de barra de progresso das cenas NO_UPDATES v(1.0) e UPDATES v(1.0)
-• correção na forma que é exibida as informações de grupo da tarefa de envio Wuzapi ChatBoot - Get Group Information
+• Ajuste na cena NO_UPDATES v(1.0).
+
+• Identificação do nome de grupos na variável group_name.
+
+• Remoção de barra de progresso das cenas NO_UPDATES v(1.0) e UPDATES v(1.0).
+
+• Correção na forma que é exibida as informações de grupo da tarefa de envio Wuzapi ChatBoot - Get Group Information.
+
+• Ajuste na tarefa #PARSE_RECEIVED_MESSAGES v(1.0) para restabelecer conexão no servidor caso a request que busca o nome do grupo não retorne o valor esperado.
