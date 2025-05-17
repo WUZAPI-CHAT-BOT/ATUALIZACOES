@@ -1,15 +1,20 @@
-16/05/2025
-• Ajuste de responsividade na NO_UPDATES v(1.0)
-• Ajuste no layout da cena NO_UPDATES v(1.0)
+📋 REGISTRO DE ATUALIZAÇÕES
 
+📅 17/05/2025  
+🔧 Atualização Crítica  
+• Tela de atualização agora obrigatória. O usuário deve atualizar o projeto.
 
-15/05/2025
-• Ajuste na cena NO_UPDATES v(1.0).
+📅 16/05/2025  
+🎨 Melhorias Visuais  
+• Melhoria de responsividade na cena NO_UPDATES v1.0.  
+• Ajuste no layout da mesma cena para melhor visualização.
 
-• Identificação do nome de grupos na variável group_name.
-
-• Remoção de barra de progresso das cenas NO_UPDATES v(1.0) e UPDATES v(1.0).
-
-• Correção na forma que é exibida as informações de grupo da tarefa de envio Wuzapi ChatBoot - Get Group Information.
-
-• Ajuste na tarefa #PARSE_RECEIVED_MESSAGES v(1.0) para restabelecer conexão no servidor caso a request que busca o nome do grupo não retorne o valor esperado.
+📅 15/05/2025  
+🛠 Otimizações e Correções  
+• Ajuste na cena NO_UPDATES v1.0.  
+• Identificação do nome de grupos na variável group_name.  
+• Remoção da barra de progresso das cenas NO_UPDATES v1.0 e UPDATES v1.0.  
+• Correção da exibição das informações de grupo na tarefa:  
+  Wuzapi ChatBoot - Get Group Information.  
+• Ajuste na tarefa #PARSE_RECEIVED_MESSAGES v1.0 para reconectar  
+  ao servidor caso a requisição do nome do grupo falhe.
