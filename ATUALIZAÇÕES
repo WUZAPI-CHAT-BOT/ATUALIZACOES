@@ -1,25 +1,28 @@
 📋 REGISTRO DE ATUALIZAÇÕES
 
-📅 18/05/2025
-🛠 Otimizações e Correções
+──🛠 Otimizações e Correções─────📅 18/05/2025
+
 • Ajustes internos para tratamento de variáveis com caracteres especiais.
-• Melhoria na consistência de manipulação de strings em tarefas locais.
+• Melhoria na consistência de manipulação de strings em tarefas.
+─────────────────────────────
 
-📅 17/05/2025
-🔧 Atualização Crítica
-• Tela de atualização agora obrigatória. O usuário deve atualizar o projeto.
+──🔧 Atualização Crítica──────────📅 17/05/2025
 
-📅 16/05/2025
-🎨 Melhorias Visuais
+• Tela de atualização agora é obrigatória.
+• Usuário deve atualizar o projeto.
+─────────────────────────────
+
+──🎨 Melhorias Visuais────────────📅 16/05/2025
+
 • Melhoria de responsividade na cena NO_UPDATES v1.0.
-• Ajuste no layout da mesma cena para melhor visualização.
+• Ajuste no layout da mesma cena.
+─────────────────────────────
 
-📅 15/05/2025
-🛠 Otimizações e Correções
+──🛠 Otimizações e Correções─────📅 15/05/2025
+
 • Ajuste na cena NO_UPDATES v1.0.
 • Identificação do nome de grupos na variável group_name.
-• Remoção da barra de progresso das cenas NO_UPDATES v1.0 e UPDATES v1.0.
-• Correção da exibição das informações de grupo na tarefa:
-Wuzapi ChatBoot - Get Group Information.
-• Ajuste na tarefa #PARSE_RECEIVED_MESSAGES v1.0 para reconectar
-ao servidor caso a requisição do nome do grupo falhe.
+• Remoção da barra de progresso das cenas NO_UPDATES e UPDATES v1.0.
+• Correção das informações de grupo na tarefa: Wuzapi ChatBoot - Get Group...
+• Reconexão automática na tarefa #PARSE_RECEIVED_MESSAGES v1.0.
+─────────────────────────────
