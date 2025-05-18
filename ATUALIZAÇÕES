@@ -23,4 +23,3 @@
 Wuzapi ChatBoot - Get Group Information.
 • Ajuste na tarefa #PARSE_RECEIVED_MESSAGES v1.0 para reconectar
 ao servidor caso a requisição do nome do grupo falhe.
-Oi
