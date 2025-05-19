@@ -1,25 +1,25 @@
 📋 REGISTRO DE ATUALIZAÇÕES
 
-──🛠 Otimizações e Correções─────📅 18/05/2025
+──🛠 Otimizações e Correções─────📅 19/05/2025
+• Adicionado comando Shell para eliminar resquícios de downloads do projeto.
+─────────────────────────────
 
+──🛠 Otimizações e Correções─────📅 18/05/2025
 • Ajustes internos para tratamento de variáveis com caracteres especiais.
 • Melhoria na consistência de manipulação de strings em tarefas.
 ─────────────────────────────
 
 ──🔧 Atualização Crítica─────📅 17/05/2025
-
 • Tela de atualização agora é obrigatória.
 • Usuário deve atualizar o projeto.
 ─────────────────────────────
 
 ──🎨 Melhorias Visuais─────📅 16/05/2025
-
 • Melhoria de responsividade na cena NO_UPDATES v1.0.
 • Ajuste no layout da mesma cena.
 ─────────────────────────────
 
 ──🛠 Otimizações e Correções─────📅 15/05/2025
-
 • Ajuste na cena NO_UPDATES v1.0.
 • Identificação do nome de grupos na variável group_name.
 • Remoção da barra de progresso das cenas NO_UPDATES e UPDATES v1.0.
